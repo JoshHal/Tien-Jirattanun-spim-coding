@@ -1,3 +1,3 @@
 fun main(){
-    print("Tien-Jirattanun")
+    print("Tien-Jirattanun");
 }
